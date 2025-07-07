@@ -12,7 +12,7 @@
 ## 🧑‍🎓 About Me
 
 - 🎓 MCA Graduate from **Kurukshetra University, Kurukshetra**
-- 🌐 Portfolio: [View Here](https://github.com/SahdevPrajapati18/portfolio)
+- 🌐 Portfolio: [View Here](https://sahdevprajapati.netlify.app/)
 - 📱 Android App: [KUK Exam Prep](https://github.com/SahdevPrajapati18/kukexamprep)
 - 📊 Dashboard Project: [Productivity Dashboard](https://github.com/SahdevPrajapati18/productivity-dashboard)
 - 🚀 Eager to contribute to web development projects and learn cutting-edge technologies
