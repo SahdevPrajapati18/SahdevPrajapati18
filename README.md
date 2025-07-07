@@ -42,7 +42,7 @@
 ## 🔗 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/sahdevprajapati/" target="_blank">
+  <a href="https://www.linkedin.com/in/sahdev-prajapati/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:sahdevprajapati27@gmail.com">
