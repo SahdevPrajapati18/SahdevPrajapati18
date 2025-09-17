@@ -44,11 +44,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SahdevPrajapati18&layout=compact&theme=tokyonight&hide_border=true" width="32%" />
 </p>
 
-> If the middle card (streak) doesn't render, try this alternative:
->
-> ```html
-> <img src="https://git-hub-streak-stats.vercel.app/?user=SahdevPrajapati18&theme=tokyonight&hide_border=true" width="32%" />
-> ```
 
 ---
 
